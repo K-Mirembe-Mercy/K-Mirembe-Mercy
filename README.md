@@ -45,8 +45,6 @@ Building things that matter — for my community, Africa, and the world
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/K-Mirembe-Mercy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Mirembe-Mercy&stroke=ffffff&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/K-Mirembe-Mercy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Mirembe-Mercy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
