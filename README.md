@@ -61,6 +61,12 @@ Skills
 Socials
 Badges
 My GitHub Stats
+Skills
+Socials
+Badges
+My GitHub Stats
+
+
 
 
 <!--
