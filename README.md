@@ -1,39 +1,38 @@
 https://k-mirembe-mercy.github.io/portfolio-/
 ## Hi there 👋
-ProfileMe.dev
+# Hey, I'm Kafeero Mirembe Mercy 👋
 
-Code is how I make ideas come alive.
+> *Code is how I make ideas come alive.*
 
-Hi! I'm Kafeero Mirembe Mercy — a passionate student developer from Uganda who discovered the magic of programming and never looked back.
+I'm a self-taught developer from Uganda — driven by curiosity, shaped by determination, and focused on building things that actually matter. I got into programming, fell in love with it, and haven't stopped since.
 
-📚
-Much of what I know, I taught myself — through documentation, tutorials, errors, and sheer determination.
+Most of what I know came from reading docs, breaking things, debugging them, and doing it all over again. That process taught me more than any classroom could.
 
-🌱
-Always Growing
+---
 
-What drives my work.
+## What drives my work
 
-🔥Passion
+🔥 **Passion** — I genuinely love what I build. That shows up in every line of code.
 
-I genuinely love what I build. That passion shows in every project.
+🔨 **Build First** — The best way to learn something is to make something with it.
 
-🔨Build First
+📖 **Curiosity** — Every new language, tool, or concept is a problem worth exploring.
 
-I believe in learning by doing. Ideas become real through code.
+🌍 **Impact** — I build for my community, for Africa, and for the world.
 
-📖Curiosity
+---
 
-Every new language, tool, or concept is an adventure worth exploring.
+## Right now
 
-🌍Impact
+- 🧠 Going deep on **Advanced C** — memory, pointers, systems-level thinking
+- 🤝 Open to collaborating on interesting, meaningful projects
+- 📍 Based in **Kampala, Uganda**
 
-Building things that matter — for my community, Africa, and the world
+---
 
-🌍  I'm based in Uganda
-✉️  You can contact me at Kafeeromirembemercy@gmail.com
-🧠  I'm learning Advanced c
-🤝  I'm open to collaborating on Interesting projects
+## Let's connect
+
+📧 [Kafeeromirembemercy@gmail.com](mailto:Kafeeromirembemercy@gmail.com)
 
 SKILLS
 
